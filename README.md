@@ -1,4 +1,4 @@
-# Prettify Folder
+# Automate file renaming
 
 This program will take 3 inputs:
 1) Directory in which the files should be renamed in chronological order.
