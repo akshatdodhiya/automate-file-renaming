@@ -1,4 +1,8 @@
 # Automate file renaming
+Automate the boring task of arranging and renaming files in your directory.
+
+## Video Demonstration and Code Explanation:
+[![Youtube](https://img.youtube.com/vi/ZriPwdX1Ayw/hqdefault.jpg)](https://www.youtube.com/watch?v=ZriPwdX1Ayw)
 
 This program will take 3 inputs:
 1) Directory in which the files should be renamed in chronological order.
